@@ -1,0 +1,2 @@
+# devdiary.github.io
+blog
